@@ -17,18 +17,18 @@ how to use-
 
 - Assuming you’ve already installed Node.js
 - create a directory to hold your application, and make that your working directory.
-    - $ mkdir EMSapp
-    - $ cd EMSapp
+    > $ mkdir EMSapp
+    > $ cd EMSapp
 
 -Use the npm init command to create a package.json file for your application.
-    - $ npm init
+    > $ npm init
     
 - Change the current working directory to the location where you want the cloned directory.
-    - $ git clone https://github.com/nihal2016/emsapp.git
+    > $ git clone https://github.com/nihal2016/emsapp.git
 
 - Then install dependencies.
-    - $ cd EMSapp
-    - $ npm install
+    > $ cd EMSapp
+    > $ npm install
 
 - Then use this command to debug and clean start.
 > set DEBUG=EMSapp:* & npm start
