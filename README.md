@@ -23,6 +23,7 @@ https://drive.google.com/file/d/1OWUPvi4aN77B0WxPJCuXQJDVVuKwW9SL/view?usp=shari
 - Assuming you’ve already installed Node.js
 - create a directory to hold your application, and make that your working directory.
     > $ mkdir EMSapp
+    
     > $ cd EMSapp
 
 - Use the npm init command to create a package.json file for your application.
