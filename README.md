@@ -16,7 +16,7 @@ Expense management software
 https://documenter.getpostman.com/view/11763959/Szzkbc51
 
 ## Schema Structure-
-URL: https://drive.google.com/file/d/1OWUPvi4aN77B0WxPJCuXQJDVVuKwW9SL/view?usp=sharing
+https://drive.google.com/file/d/1OWUPvi4aN77B0WxPJCuXQJDVVuKwW9SL/view?usp=sharing
 
 ## how to use- 
 
