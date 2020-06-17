@@ -28,6 +28,7 @@ how to use-
 
 - Then install dependencies.
     > $ cd EMSapp
+    
     > $ npm install
 
 - Then use this command to debug and clean start.
