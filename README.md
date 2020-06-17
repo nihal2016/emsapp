@@ -3,9 +3,13 @@ Expense management software
 
 ## Requirments- 
 
-Database used- mysql-8.0
-node js -v12.18.0
-express js -4.16.1
+- Database used
+    > mysql-8.0
+
+- node js 
+    > v12.18.0
+    
+    > express js -4.16.1
 
 ## Apis URL's- 
 https://documenter.getpostman.com/view/11763959/Szzkbc51
