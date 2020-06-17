@@ -1,19 +1,19 @@
 # emsapp
 Expense management software
 
-Requirments- 
+## Requirments- 
 
 Database used- mysql-8.0
 node js -v12.18.0
 express js -4.16.1
 
-Apis URL's- 
+## Apis URL's- 
 https://documenter.getpostman.com/view/11763959/Szzkbc51
 
-Schema Structure-
+## Schema Structure-
 URL: https://drive.google.com/file/d/1OWUPvi4aN77B0WxPJCuXQJDVVuKwW9SL/view?usp=sharing
 
-how to use- 
+## how to use- 
 
 - Assuming you’ve already installed Node.js
 - create a directory to hold your application, and make that your working directory.
@@ -32,7 +32,7 @@ how to use-
     > $ npm install
 
 - Then use this command to debug and clean start.
-> set DEBUG=EMSapp:* & npm start
+    > set DEBUG=EMSapp:* & npm start
 
 - Then load http://localhost:3000/ in your browser to access the app.
 
