@@ -10,6 +10,9 @@ express js -4.16.1
 Apis URL's- 
 https://documenter.getpostman.com/view/11763959/Szzkbc51
 
+Schema Structure-
+URL: https://drive.google.com/file/d/1OWUPvi4aN77B0WxPJCuXQJDVVuKwW9SL/view?usp=sharing
+
 how to use- 
 
 - Assuming you’ve already installed Node.js
@@ -29,4 +32,6 @@ how to use-
 
 - Then use this command to debug and clean start.
 > set DEBUG=EMSapp:* & npm start
+
+- Then load http://localhost:3000/ in your browser to access the app.
 
