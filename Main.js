@@ -9,6 +9,7 @@ app.use(bodyparser.urlencoded({extended: true}));
 
 app.get('/', (req, res) => {res.send('Hello! this is EMS app.')});
 
+require('./backend/routes/users.route.js')(app);
 require('./backend/routes/categories.route.js')(app);
 
 app.listen(port, err => {
