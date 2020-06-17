@@ -2,7 +2,7 @@
 module.exports = app => {
 
     // Import Category Controller to route specific module.
-    const categories = require('../controller/category.controller');
+    const categories = require('../controller/categories.controller');
 
     // Create a new Category
     app.post('/category', categories.create);
